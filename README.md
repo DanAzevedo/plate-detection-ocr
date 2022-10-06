@@ -1,4 +1,4 @@
-> <h1>Plate detector</h1>
+> <h1>Plate detector OCR</h1>
 [![GitHub license](https://img.shields.io/github/license/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/network)
