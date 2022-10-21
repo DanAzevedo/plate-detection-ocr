@@ -1,8 +1,8 @@
 > <h1>Plate detector OCR</h1>
-[![GitHub license](https://img.shields.io/github/license/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/network)
-[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/issues)
+[![GitHub license](https://img.shields.io/github/license/DanAzevedo/plate-detection-ocr?style=for-the-badge)](https://github.com/DanAzevedo/plate-detection-ocr/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/plate-detection-ocr?style=for-the-badge)](https://github.com/DanAzevedo/plate-detection-ocr/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/plate-detection-ocr?style=for-the-badge)](https://github.com/DanAzevedo/plate-detection-ocr/network)
+[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/plate-detection-ocr?style=for-the-badge)](https://github.com/DanAzevedo/plate-detection-ocr/issues)
 
 <p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISH&color=GREEN&style=for-the-badge"/>
